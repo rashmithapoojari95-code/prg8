@@ -33,7 +33,7 @@
 			<configuration>
 				<archive>
 				<manifest>
-					<mainClass>com.mvn.labb8.App</mainClass>
+					<mainClass>prgm8.labb8.App</mainClass>
 				</manifest>
 				</archive>
 			</configuration>
